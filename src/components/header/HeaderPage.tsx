@@ -2,7 +2,7 @@ import './HeaderPage.scss';
 
 export const HeaderPage = () => {
     return (
-        <div className="page-navigation">
+        <header className="page-navigation">
             <h1>
                 <span className="colorRedH1">Recipe</span>
                 <span className="colorBlackH1">App</span>
@@ -32,6 +32,6 @@ export const HeaderPage = () => {
                     </li>
                 </ul>
             </nav>
-        </div>
+        </header>
     )
 };
