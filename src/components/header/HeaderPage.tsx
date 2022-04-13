@@ -1,6 +1,6 @@
 import './HeaderPage.scss';
-export const HeaderPage = () => {
 
+export const HeaderPage = () => {
     return (
         <div className="page-navigation">
             <h1>
