@@ -1,0 +1,26 @@
+.page-navigation {
+  width: 960px;
+  max-width: 100%;
+  margin: 0 auto;
+  display: flex;
+  flex-direction: row;
+}
+
+.main-nav ul {
+  margin: 1em 0 .5em;
+  font-family: "Open Sans" !important;
+  position: absolute;
+  right: 0;
+}
+.main-nav li {
+  display: inline;
+  font-family: "Open Sans" !important;
+}
+.main-nav h6 {
+  display: inline-block;
+  padding: .5em 1.5em;
+}
+
+li:hover{
+  color: #D84A4A
+}

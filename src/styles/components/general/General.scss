@@ -1,9 +1,10 @@
 // Index
 @font-face {
-  font-family: 'Open Sans';
-  src: local('../../assets/fonts/MonsterClubhouse.ttf');
+  font-family: 'Monster';
+  src: url('../../assets/fonts/Monster Clubhouse.ttf');
   font-style: normal;
   font-weight: normal;
+  font-size: 220px;
 }
 
 code {
@@ -14,6 +15,8 @@ code {
 // App
 .App {
   text-align: center;
+  font-family: Monster,
+  monospace;
 }
 
 .App-logo {
