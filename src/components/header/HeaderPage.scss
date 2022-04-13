@@ -1,7 +1,6 @@
 .page-navigation {
-  width: 960px;
   max-width: 100%;
-  margin: 0 auto;
+  //margin: 2px auto;
   display: flex;
   flex-direction: row;
 }
@@ -23,4 +22,12 @@
 
 li:hover{
   color: #D84A4A
+}
+
+.colorRedH1 {
+  color: #D84A4A;
+}
+
+.colorBlackH1 {
+  color: black;
 }

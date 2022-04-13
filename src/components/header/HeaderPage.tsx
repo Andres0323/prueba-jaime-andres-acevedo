@@ -3,7 +3,10 @@ export const HeaderPage = () => {
 
     return (
         <div className="page-navigation">
-            <h1>RecipeApp</h1>
+            <h1>
+                <span className="colorRedH1">Recipe</span>
+                <span className="colorBlackH1">App</span>
+            </h1>
             <nav className="main-nav">
                 <ul className="main-nav-list">
                     <li>
